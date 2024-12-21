@@ -1,7 +1,7 @@
 ### Hi! I'm Alexander! Nice to see you!   
   
 Welcome to my GitHub page!
-I'm backend developer from St. Petersburg, Russia 🇷🇺.  
+I'm Java-developer from St. Petersburg, Russia 🇷🇺.  
 
 <br/>  
 
